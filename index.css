@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 230, 0);
+}
+
+.vertical-center {
+    margin-top: 23%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#btn{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: rgb(255, 40, 40);
+    border: rgb(255, 40, 40) solid;
+    border-radius: 5px;
+    font-family: "Dancing Script";
+    font-size: 30px;
+}
